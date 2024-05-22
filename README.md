@@ -9,13 +9,13 @@ For music features extraction, I referred to the method of the Transflower paper
 ### Clone this repository
 
 ``` shell
-git clone https://github.com/starryforest-ymxk/AI4Animation-DeepPhase.git
+git clone https://github.com/starryforest-ymxk/DeepPhase-DanceGeneration.git
 ```
 
 ### Pull the imported KTH Dance Dataset (If needed)
 
 ```shell
-cd AI4Animation-DeepPhase
+cd DeepPhase-DanceGeneration
 git lfs pull
 ```
 
