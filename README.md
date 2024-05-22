@@ -1,4 +1,4 @@
-# AI4Animation - DeepPhase
+# DeepPhase-DanceGeneration
 
 This repository is forked from [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation).
 
