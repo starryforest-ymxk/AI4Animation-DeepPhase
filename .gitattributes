@@ -1,3 +1,8 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
+AI4Animation/SIGGRAPH_2022/Unity-DeepPhase/Assets/Projects/DeepPhase/Demos/Dance/Assets/**/*.wav filter=lfs diff=lfs merge=lfs -text
+AI4Animation/SIGGRAPH_2022/Unity-DeepPhase/Assets/Projects/DeepPhase/Demos/Dance/Assets/**/*.asset filter=lfs diff=lfs merge=lfs -text
+AI4Animation/SIGGRAPH_2022/Unity-DeepPhase/Assets/Projects/DeepPhase/Demos/Quadruped/Assets/**/*.asset filter=lfs diff=lfs merge=lfs -text
+AI4Animation/SIGGRAPH_2022/Unity-DeepPhase/Assets/Projects/DeepPhase/Demos/Dance/Test[[:space:]]Music/**/*.asset filter=lfs diff=lfs merge=lfs -text
+AI4Animation/SIGGRAPH_2022/Unity-DeepPhase/Assets/Projects/DeepPhase/Demos/Dance/Test[[:space:]]Music/**/*.wav filter=lfs diff=lfs merge=lfs -text

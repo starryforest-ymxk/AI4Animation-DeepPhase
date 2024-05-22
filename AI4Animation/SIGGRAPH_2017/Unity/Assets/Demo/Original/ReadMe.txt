@@ -1,1 +1,0 @@
-Before running the system, you will need to press the "Store Parameters" button in the PFNN inspector, which creates the network parameters asset file.
